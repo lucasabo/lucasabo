@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas Santos, MSc
 - 👀 I’m interested in science, data science and bioinformatics
 - 🌱 I’m currently learning python, SQL, ML and powerbi
-- 💞️ I'm looking to collaborate in solving health and biology problems through computational approaches
+- 💞️ I'm looking to collaborate in solving society problems through computational approaches
 - 📫 How to reach me: luccalexandre@gmail.com
 
 <!---
